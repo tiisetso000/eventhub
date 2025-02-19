@@ -5,85 +5,25 @@ import { Event } from "@/data/mockEvents";
 
 const featuredEvents = [
   {
-    id: "sgidi-fridays-nov-2024",
-    title: "Sigidi Pretty Girls Friday",
-    date: "Nov 29, 2024",
-    description: "We bring Sigidi Pretty Girls Friday",
-    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1732926050/sgidi_love_zjvtfa.jpg",
-    ticketTypes: [
-      {
-        name: "Early Bird",
-        price: 79.99,
-        description: "Limited early access tickets at a special price",
-        available: 100
-      },
-      {
-        name: "General Admission",
-        price: 99.99,
-        description: "Standard festival access",
-        available: 500
-      },
-      {
-        name: "VIP",
-        price: 199.99,
-        description: "VIP area access with complimentary drinks",
-        available: 50
-      }
-    ]
+    id: "gees-fest-apt-2025",
+    title: "Gees Fest",
+    description: "Wassup Good People The Boygees Clothing Proudly Presents The Official Gees Fest (Mabhanzin's Birthday Celebration) Hosted By Malume Spura & Umfana WeHubbly .SAVE THE DATE (05 APRIL) We Promise Y'all Good Vibes With Perfect Blend Of Iconic Culture,Music and Streetwear.🎂🥳🥳🥳🥳🥳🥳🥳 More Details Coming Soon",
+    date: "April 05, 2025",
+    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1739923059/WhatsApp_Image_2025-02-18_at_23.53.36_b6d14b52_ltrag4.jpg",
   },
   {
-    id: "pens-down-nov-2024",
-    title: "Pens Down",
-    date: "Nov 30, 2024",
-    description: "We bring pens down chilliars",
-    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1732926130/pensdown_bttpcl.jpg",
-    ticketTypes: [
-      {
-        name: "Early Bird",
-        price: 249.99,
-        description: "Limited early registration discount",
-        available: 50
-      },
-      {
-        name: "Standard",
-        price: 299.99,
-        description: "Full conference access",
-        available: 200
-      },
-      {
-        name: "Premium",
-        price: 499.99,
-        description: "Includes workshop access and networking dinner",
-        available: 75
-      }
-    ]
+    id: "brandros-mrh-2025",
+    title: "Brandros",
+    description: "Ladies and gents these are the pilots for the all black everything, the connoisseurs of the days groove! The ones to take centre stage and give us memorable moments to last us a lifetime. Let's rock!!!!🔥",
+    date: "March 29, 2025",
+    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1739923059/WhatsApp_Image_2025-02-18_at_23.53.36_21e69d31_dci6td.jpg",
   },
   {
-    id: "amapiano-world-sept-2024",
-    title: "Amapiano To The World",
-    date: "September 30, 2024",
-    description: "We bring the best Amapiano Event",
-    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1732926170/event1_ywebwu.jpg",
-    ticketTypes: [
-      {
-        name: "General Admission",
-        price: 149.99,
-        description: "Access to all food and wine tastings",
-        available: 300
-      },
-      {
-        name: "VIP Experience",
-        price: 299.99,
-        description: "Includes chef meet & greet and exclusive tastings",
-        available: 100
-      },
-      {
-        name: "Master Class",
-        price: 399.99,
-        description: "All VIP benefits plus cooking masterclass",
-        available: 30
-      }
-    ]
+    id: "two-man-may-2025",
+    title: "Two Man",
+    description: "🚨🚨🚨 ON 24 MAY FIASCO PRESENTS TWO MAN SHOW 🚨🚨🚨",
+    date: "May 24, 2025",
+    image: "https://res.cloudinary.com/ddhdpvywz/image/upload/v1739923058/WhatsApp_Image_2025-02-18_at_23.53.36_39259c04_ffczd6.jpg",
   }
 ];
 
